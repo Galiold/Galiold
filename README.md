@@ -6,7 +6,7 @@ I'm Ali, a Computer Science student based in Canada, passionate about Video Game
 
 [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=goldani.ali&labelColor=313131&color=313131)](mailto:goldani.ali@gmail.com)   
 [![linkedin](https://img.shields.io/badge/-@agoldani-313131?style=flat-square&labelColor=313131&logo=LinkedIn&color=313131)](https://www.linkedin.com/in/agoldani/)   
-[![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://drive.google.com/file/d/1kdT8qjbUnGwa5z2SjurhXftI6o7UHewE/view?usp=sharing)   
+[![cv](https://img.shields.io/static/v1?style=flat-square&logo=docusign&label=&message=CV&labelColor=313131&color=313131)](https://raw.githubusercontent.com/Galiold/Galiold.github.io/master/cv.pdf) 
 
 [//]: # (<details>)
 
