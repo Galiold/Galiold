@@ -2,7 +2,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/27806800/116391866-ee9d8b00-a834-11eb-9d6f-af12b3c37d20.png" height="120px">
 
-I'm Ali, a Computer Science student from Iran, passionate about Video Games and AI.
+I'm Ali, a Computer Science student based in Canada, passionate about Video Games and AI.
 
 [![gmail](https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=&message=goldani.ali&labelColor=313131&color=313131)](mailto:goldani.ali@gmail.com)   
 [![linkedin](https://img.shields.io/badge/-@agoldani-313131?style=flat-square&labelColor=313131&logo=LinkedIn&color=313131)](https://www.linkedin.com/in/agoldani/)   
